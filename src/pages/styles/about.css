@@ -27,6 +27,7 @@
 
 .about-right-side {
 	flex-basis: 900px;
+	padding-right: 25px
 }
 
 .about-title {

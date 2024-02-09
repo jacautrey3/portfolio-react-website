@@ -16,15 +16,15 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "DevOps and Software Engineer",
+		title: "DevOps Engineer and Certified Kubernetes Administrator",
 		description:
 			"I am a DevOps engineer with expertise in Kubernetes and Amazon Web Services. I have experience in building scalable, secure and reliable cloud platforms. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
 	},
 
 	about: {
-		title: "I'm Jacob Autrey. I live in the San Francisco Bay Area",
+		title: "Hello! I'm Jacob Autrey. I live in the San Francisco Bay Area",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"Living in the heart of the Silicon Valley has afforded me a front-row seat to the pulse of technological innovation and disruption. As a DevOps engineer immersed in this dynamic ecosystem, I thrive on the relentless energy and spirit of collaboration that permeate this region. From the bustling startup culture to the established tech giants, every day presents an opportunity to contribute to the ever-evolving landscape of digital transformation. Balancing the fast-paced demands of Silicon Valley with the meticulous attention to detail required in DevOps, I find myself continuously inspired by the ingenuity and resilience of the community around me. In this vibrant environment, I am driven to push boundaries, embrace change, and pioneer solutions that shape the future of technology.",
 	},
 
 	// articles: {

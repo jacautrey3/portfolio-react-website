@@ -39,18 +39,14 @@ const Projects = () => {
 					</div>
 					<div className="projects-container">
 						<div className="title projects-title">
-							Things I’ve made to sharpen my skills... or just for fun
+							Where creativity meets code, innovation thrives, and solutions unfold.
 						</div>
 
 						<div className="subtitle projects-subtitle">
-							I've worked on a variety of projects over the years
-							and I'm proud of the progress I've made. If you're
-							interested in any of the projects I've worked on,
-							please feel free to check out the code and suggest
-							any improvements or enhancements you might have in
-							mind. Collaborating with others is a great way to
-							learn and grow, and I'm always open to new ideas and
-							feedback.
+							Through hands-on project creation, I embark on a journey of
+							continual learning and growth. Each endeavor becomes a canvas for
+							honing problem-solving skills, embracing collaboration, and exploring
+							new horizons in software engineering.
 						</div>
 
 						<div className="projects-list">
