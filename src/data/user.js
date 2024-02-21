@@ -53,14 +53,14 @@ const INFO = {
 			link: "https://github.com/ChicoState/RuMate",
 		},
 
-		// {
-		// 	title: "Project 3",
-		// 	description:
-		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-		// 	linkText: "View Project",
-		// 	link: "https://github.com",
-		// },
+		{
+			title: "Terraform/Ansible Jenkins Provisioner",
+			description:
+				"Automates the deployment of a Jenkins server on AWS EC2 instances using Terraform for infrastructure provisioning and Ansible for configuration management.",
+			logo: "https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg",
+			linkText: "View Project",
+			link: "https://github.com/jacautrey3/terraform-ansible-jenkins-provisioner",
+		},
 
 		// {
 		// 	title: "Project 4",
