@@ -62,14 +62,14 @@ const INFO = {
 			link: "https://github.com/jacautrey3/terraform-ansible-jenkins-provisioner",
 		},
 
-		// {
-		// 	title: "Project 4",
-		// 	description:
-		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-		// 	linkText: "View Project",
-		// 	link: "https://github.com",
-		// },
+		{
+			title: "Stable Diffusion WebUI",
+			description:
+				"Provides a user interface for the Stable Diffusion application, which is an AI-powered image creation tool. Created on AWS EC2 instance with Terraform",
+			logo: "https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg",
+			linkText: "View Project",
+			link: "https://github.com/jacautrey3/stable-diffusion-aws",
+		},
 	],
 };
 
