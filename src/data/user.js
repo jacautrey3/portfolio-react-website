@@ -71,6 +71,17 @@ const INFO = {
 			link: "https://github.com/jacautrey3/stable-diffusion-aws",
 		},
 	],
+
+	certificates: [
+		{
+			title: "Certified Kubernetes Administrator",
+			description:
+				"The Certified Kubernetes Administrator (CKA) program was created by the Cloud Native Computing Foundation (CNCF), in collaboration with The Linux Foundation, to help develop the Kubernetes ecosystem. As one of the highest velocity open source projects, Kubernetes use is exploding. It is a critical skill for DevOps and IT teams to learn.",
+			logo: "./kubernetes-cka-color.svg",
+			linkText: "View Certificate",
+			link: "https://www.credly.com/badges/ebd109a7-d2b5-4aa1-92dc-b55feec17e1a/linked_in?t=s85tvu",
+		},
+	],
 };
 
 export default INFO;
