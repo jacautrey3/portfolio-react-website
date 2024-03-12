@@ -71,6 +71,7 @@
 
 .homepage-after-title {
 	display: flex;
+	flex-direction: column;
 }
 
 .homepage-projects {
@@ -89,8 +90,11 @@
 }
 
 .homepage-works {
-	flex-basis: 600px;
 	padding-top: 30px;
+}
+
+.homepage-certifications {
+	padding-top: -10px;
 }
 
 @media (max-width: 1024px) {
@@ -100,7 +104,8 @@
 
 	.homepage-first-area-left-side {
 		display: flex;
-		flex-direction: column; /* Changed: set direction to column */
+		flex-direction: column;
+		/* Changed: set direction to column */
 		align-items: flex-start;
 		width: 100%;
 		order: 2;
@@ -143,6 +148,12 @@
 	}
 
 	.homepage-works {
+		flex-basis: auto;
+		margin-left: -25px;
+		margin-right: -25px;
+	}
+
+	.homepage-certifications {
 		flex-basis: auto;
 		margin-left: -25px;
 		margin-right: -25px;

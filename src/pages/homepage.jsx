@@ -17,6 +17,7 @@ import NavBar from "../components/common/navBar";
 // import Article from "../components/homepage/article";
 import Works from "../components/homepage/works";
 import AllProjects from "../components/projects/allProjects";
+import Certifications from "../components/certifications/allCertificates";
 
 import INFO from "../data/user";
 import SEO from "../data/seo";
@@ -198,6 +199,10 @@ const Homepage = () => {
 									</div>
 								))}
 							</div> */}
+
+							<div className="homepage-certifications">
+								<Certifications />
+							</div>
 
 							<div className="homepage-works">
 								<Works />
